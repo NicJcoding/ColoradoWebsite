@@ -1,3 +1,13 @@
 body {
-    color: purple;
+    background-image: url(/images/watermountain.avif);
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    border: 5px solid #008000;
+    color: rgb(0, 174, 255);
+    background-color: black;
+}
+p {
+    color: pink;
 }
