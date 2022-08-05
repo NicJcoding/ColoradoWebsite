@@ -1,13 +1,29 @@
 body {
     background-image: url(/images/watermountain.avif);
     background-size: cover;
+    
 }
+
 h1 {
-    text-align: center;
-    border: 5px solid #008000;
-    color: rgb(0, 174, 255);
-    background-color: black;
+    color: blue;
 }
-p {
-    color: pink;
+
+
+
+#div1 {
+    line-height: 30px;
+    font-style: italic;
+    font-weight: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    color: rgb(16, 55, 170);
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+    list-style: none;
+}
+footer {
+    clear: both;
+    text-align: end;
 }
