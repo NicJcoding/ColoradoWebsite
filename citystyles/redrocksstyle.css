@@ -1,3 +1,22 @@
 body {
-    background-color: tan;
+    background-image: url(/images/marc-pineda-GwUoDx-oBXg-unsplash.jpg);
+   background-size: cover;
+   height: 80pc;
+   
+
+}
+.citypage {
+    font-style: oblique;
+}
+
+ ul {
+    list-style: none;
+    margin: 40px;
+    padding: 0;
+    display: inline-flex;
+    cursor: pointer;
+}
+.button {
+    cursor: pointer;
+    color: red;
 }
