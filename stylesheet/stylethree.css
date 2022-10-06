@@ -22,8 +22,14 @@ ul {
     font-size: larger;
     text-align: center;
     list-style: none;
+    
 }
 footer {
     clear: both;
     text-align: end;
+}
+.button {
+    cursor: pointer;
+    color: red;
+    background-color: aquamarine;
 }
